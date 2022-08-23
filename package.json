@@ -1,0 +1,23 @@
+{
+  "name": "11ty",
+  "version": "1.0.0",
+  "description": "'# Page header'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mifomen/11ty.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mifomen/11ty/issues"
+  },
+  "homepage": "https://github.com/mifomen/11ty#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
